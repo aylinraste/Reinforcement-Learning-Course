@@ -6,7 +6,7 @@ This repository contains the projects and homework assignments for the Reinforce
 Focuses on foundational concepts such as Information Theory, Convex Optimization, Markov Chains, Bayesian Statistics, Estimation Theory, and Variational Inference, forming the basis for understanding reinforcement learning.
 
 ## Homework 2
-Covers Tabular Markov Decision Processes (MDPs) and Approximation Value Methods. Practical tasks include implementing core RL algorithms like Monte Carlo (MC), Temporal Difference (TD), Q-Learning, \( Q$\lambda$ \), SARSA, and Deep Q-Networks (DQN).
+Covers Tabular Markov Decision Processes (MDPs) and Approximation Value Methods. Practical tasks include implementing core RL algorithms like Monte Carlo (MC), Temporal Difference (TD), Q-Learning, Q $\lambda$, SARSA, and Deep Q-Networks (DQN).
 
 ## Homework 3
 Introduces Policy Gradient methods, with practical implementations of REINFORCE and Proximal Policy Optimization (PPO), key algorithms in modern RL.
